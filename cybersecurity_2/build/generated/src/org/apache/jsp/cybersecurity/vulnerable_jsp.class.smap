@@ -1,0 +1,16 @@
+SMAP
+vulnerable_jsp.java
+JSP
+*S JSP
+*F
++ 0 vulnerable.jsp
+cybersecurity/vulnerable.jsp
++ 1 sidebar1.jsp
+cybersecurity/sidebar1.jsp
+*L
+1,24:49
+25:73,3
+26,4:76
+1#1,54:80
+29#0,61:134
+*E

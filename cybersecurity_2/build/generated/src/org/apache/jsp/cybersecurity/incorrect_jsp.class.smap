@@ -1,0 +1,18 @@
+SMAP
+incorrect_jsp.java
+JSP
+*S JSP
+*F
++ 0 incorrect.jsp
+cybersecurity/incorrect.jsp
++ 1 header.jsp
+cybersecurity/header.jsp
++ 2 footer1.jsp
+cybersecurity/footer1.jsp
+*L
+1,13:50
+1#1,77:63
+13#0,124:140
+1#2,61:264
+136#0,4:325
+*E

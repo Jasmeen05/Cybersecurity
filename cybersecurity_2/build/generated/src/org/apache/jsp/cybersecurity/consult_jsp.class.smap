@@ -1,0 +1,16 @@
+SMAP
+consult_jsp.java
+JSP
+*S JSP
+*F
++ 0 consult.jsp
+cybersecurity/consult.jsp
++ 1 sidebar1.jsp
+cybersecurity/sidebar1.jsp
+*L
+1,25:49
+26:74,3
+27,6:77
+1#1,56:83
+32#0,81:139
+*E

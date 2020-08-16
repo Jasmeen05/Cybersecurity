@@ -1,0 +1,34 @@
+.a1{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.a1:hover
+{
+    color: blue;text-decoration: none
+}
+.l1{
+   list-style-type: none;
+    display: inline;
+   
+}
+.l1 a:hover{
+    text-decoration: none;
+    color: white;
+}
+.l1 a{color: darkgray}
+#i2{font-size: 25px;color: darkgray;}
+#i2:hover{color: white;}
+.dropdown:hover>.dropdown-menu{display: block;}
+#i3{font-size: 25px}
+#i3:hover{background-color: cornflowerblue;color: white}
+.ii{
+    height: 500px;
+    width: 100%;
+}
+.b1
+{
+    margin-left: 15px
+}
+.if{height: 200px;width:300px}
+#i4{font-size: 40px;color: aliceblue}
+.aa:hover{text-decoration: none}

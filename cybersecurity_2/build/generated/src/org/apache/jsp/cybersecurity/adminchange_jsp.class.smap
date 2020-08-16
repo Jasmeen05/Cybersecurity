@@ -1,0 +1,14 @@
+SMAP
+adminchange_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminchange.jsp
+cybersecurity/adminchange.jsp
++ 1 sidebar.jsp
+cybersecurity/sidebar.jsp
+*L
+1,33:49
+1#1,65:82
+33#0,76:147
+*E
